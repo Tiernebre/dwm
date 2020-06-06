@@ -1,3 +1,4 @@
 # compiled outputs
 *.o
 dwm
+config.h
